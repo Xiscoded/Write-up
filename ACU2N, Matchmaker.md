@@ -3,6 +3,8 @@
 There are a variety of symmetric cryptosystems out there, but most of them involve a logic block called a XOR. The key is "hab"(UTF8). We're giving you the key and the algorithm, how hard can it be?
 
 Dg0DDxoRBz4PHQIKNxIbBQwHHBMbFQ==
+
+*external ressources* : [here](https://qualifier.hackabit.com/learning/acu2n-matchmaker)
 ## Solution
 We notice that "Dg0DDxoRBz4PHQIKNxIbBQwHHBMbFQ==" could be encoded with Base64. So we are going to use CyberChef ([cyberchef.org](https://cyberchef.org)) to convert "Dg0DDxoRBz4PHQIKNxIbBQwHHBMbFQ==
 " into plaintext, we use the "From Base64" block in the recipe column and we paste the encoded text in the input section, which gives the output :</br>
